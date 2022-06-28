@@ -1,0 +1,42 @@
+button{
+  border-radius: 25px;
+  border: 3px solid #eff1eb;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  font-size: 40px;
+  margin: 2px;
+  background-color: rgba(0, 0, 0, 0.87);
+  color:blanchedalmond;
+}
+.button{
+  display: block;
+}
+.Result{
+  border-radius: 25px;
+  border: 3px solid #eff1eb;
+  width: 405px;
+  background-color: darkgrey;
+  font-size: 50px;
+  height: 75px;
+  text-align: right;
+  padding-bottom: 30px;
+  padding-right: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.calbody{
+  align-items: center;
+  max-width: 470px;
+  background-color:rgb(3, 1, 30);
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-bottom: 20px;
+  border-radius: 25px;
+  border: 3px solid #eff1eb;
+}
+.label{
+  color: white;
+  text-align: right;
+  max-width: 400px;
+  font-size: 20px;
+}
